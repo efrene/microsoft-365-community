@@ -65,10 +65,10 @@ At the 400 level of Communications, users have a high degree of trust in organiz
   -	For example, company-wide news is never shared on Monday mornings unless urgent and business critical to that day’s tasks. Monday mornings are reserved for team-wide news to ensure each group can focus on their deliverables for the week before focusing on higher-level goals across the organization.
 *	Employee feedback and usage data are applied to communication formats. In addition to the user research and interviews conducted previously for feedback on communications, begin [A-B testing](https://www.nngroup.com/articles/putting-ab-testing-in-its-place/) communication iterations to gather quantitative data on which format best supports engagement, understanding, and action.
 
-# Conclusion
+## Conclusion
 Organizational communication is much broader than email and newsletters. Effective communication is highly sophisticated, enabling many types of corporate communications using a range of technologies to provide the right message to the right people in the best format at the right time. By utilizing different communication channels for their best use cases and focusing messaging to specific audiences, organizations can improve engagement and gain more understanding of the business. Great communications incorporate feedback, enable action and organizational change, and develop the culture whilst ensuring compliance and addressing risk.
 
-# Resources
+## Resources
 * [Join the Maturity Model Practitioners](https://symp.info/MM4M365Practitioners): Every month we host sessions exploring the value and use of the Microsoft 365 Maturity Model and how you can successfully develop your organization using Microsoft 365. Each of these sessions focus on building a community of practitioners in a safe space to hone your pitch, test your thoughts, or decide how to promote your use of the Maturity Model. Sessions may also include a brief presentation about the Maturity Model including recent updates.
 *	[Introduction to the Microsoft 365 Maturity Model](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model—intro)
 *	[Communication Competency- Maturity Model for Microsoft 365](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model—communication)
